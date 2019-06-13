@@ -1,5 +1,5 @@
-## com.react.memoapp
-- React를 이용한 메모어플리케이션 개발
+## com.vue.memoapp
+- Vue, Vuex 이용한 메모어플리케이션 개발
 
 ## Requirement
 - Build : node 10.2.1 버전
@@ -9,6 +9,9 @@
 - D&C에서 제공되는 서버이용
     - https://github.com/dramancompany/memoapp-api
     - 기본적으로 3000포트를 이용해서 개발된다고 가정  
+- vue : 2.6 버전 이상
+- vue-router : 3.0.6 버전 이상
+- vuex : 3.1 버전 이상
 
 ## Project setup
 ```
