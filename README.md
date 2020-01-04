@@ -1,4 +1,4 @@
-## com.vue.memoapp
+## com.memoapp.vue
 - Vue, Vuex 이용한 메모어플리케이션 개발
 
 ## Requirement
